@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9be8d913cb9c755f9504293c",
+  "owner": "qnajnq",
+  "repo": "page-995fb0ae336df3c98ac836f3",
+  "title": "NovaCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "995fb0ae336df3c98ac836f3",
+      "a": "NovaCloud",
+      "b": "",
+      "entity": "NovaCloud",
+      "brand": "NovaCloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "318e6a628367f2a020ad9ee02609310a5cb9328aceeda912e29b2574b13ffc75",
+      "content": {
+        "keyword1": "NovaCloud",
+        "keyword2": "",
+        "primary_entity": "NovaCloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "NovaCloud 官方网站提供机场订阅服务与多平台 VPN 加速客户端下载，覆盖全球高速节点，支持流媒体解锁、游戏加速与稳定跨境访问。",
+          "AI_DESCRIPTION": "NovaCloud 官方网站提供机场订阅服务与多平台 VPN 加速客户端下载，覆盖全球高速节点，支持流媒体解锁、游戏加速与稳定跨境访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;line-height:1.65;-webkit-text-size-adjust:100%}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f7f5f0;color:#1c2419;max-width:100%;overflow-x:hidden}a{color:#1e4d32}header{background:#1e4d32;color:#f4f8f2;padding:14px 16px}header .brand{font-weight:700;font-size:1.15rem;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#e7f0e4;text-decoration:none} .wrap{max-width:740px;margin:0 auto;padding:18px 16px 8px}h1{font-size:1.85rem;color:#1e4d32;margin:8px 0 12px}h2{font-size:1.35rem;color:#1e4d32;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2d6a45}h3{font-size:1.12rem;color:#245c3a;margin:16px 0 8px}p,ul,ol{margin-bottom:12px}li{margin:0 0 8px 1.2em}.lead{font-size:1.05rem}.plan{background:#fff;border:1px solid #c8d6cc;border-radius:8px;padding:16px;margin:12px 0}.plan.featured{border:2px solid #1e4d32;background:#eef6ef}.price{font-size:1.28rem;font-weight:700;color:#1e4d32}.note{color:#3d5344;font-size:0.95rem}.steps{margin:8px 0 16px}.step{position:relative;padding:4px 0 12px 44px}.step:before{content:attr(data-n);position:absolute;left:0;top:2px;width:30px;height:30px;border-radius:50%;background:#1e4d32;color:#fff;text-align:center;line-height:30px;font-weight:700}.clients a{display:inline-block;background:#1e4d32;color:#fff;text-decoration:none;padding:9px 14px;margin:6px 8px 6px 0;border-radius:4px}.panel{background:#fff;border:1px solid #c8d6cc;border-radius:8px;padding:14px;margin:12px 0}details{background:#fff;border:1px solid #c8d6cc;margin:8px 0;padding:10px 12px;border-radius:6px}summary{font-weight:650;color:#1e4d32}details p{margin:8px 0 0}.ad{background:#e8efe6;border-left:4px solid #1e4d32;padding:12px 14px;margin:22px 0}.friends a{color:#1e4d32;margin-right:12px;text-decoration:none}footer{background:#1e4d32;color:#e7f0e4;padding:22px 16px;margin-top:28px;font-size:0.92rem}footer a{color:#dce8d8}footer ul{list-style:none;margin:8px 0}footer li{margin:0 0 6px 0}@media(max-width:480px){h1{font-size:1.55rem}.clients a{display:block;text-align:center;margin-right:0}}</style><header><div class=\"wrap\"><div class=\"brand\">NovaCloud 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>NovaCloud</h1><p class=\"lead\">NovaCloud 官方网站面向需要稳定跨境访问的用户，提供机场订阅、VPN 梯子网络加速与多平台客户端下载。页面集中说明套餐权益、节点用途、导入步骤与官方下载入口，便于按设备完成配置。</p><p>NovaCloud 保留原有品牌定位：以可预期的流量套餐、分区线路和客户端兼容性服务个人与小团队。本站为官方信息源，订阅说明、设备数量与线路能力均以当前页面为准，下载请使用本页锚点对应的官方入口，避免来路不明的安装包。</p><h2 id=\"intro\">品牌简介</h2><p>NovaCloud 将机场订阅与加速器能力合并为一套可读的服务说明。用户先选择流量与设备规模，再在客户端中导入订阅、挑选节点。旗舰线路包含 IPLC 专线优化，适合对延迟更敏感的游戏与实时通讯；基础线路覆盖日常网页、基础流媒体与资料同步。</p><p>全球节点按地区分组，常见落地包括香港、新加坡、日本、美国与欧洲。普通节点池用于浏览与轻量加速，VIP 与专线节点面向旗舰版与团队版。服务强调可重复的操作路径：选套餐、下客户端、导入订阅、测延迟后连接，而不是把配置藏在难以核对的后台。</p><h2 id=\"scenes\">使用场景</h2><h3>流媒体与内容访问</h3><p>观看海外影视、课程与直播时，可按套餐解锁能力选择节点。基础版覆盖基础流媒体需求；旗舰版强调全节点原生解锁，减少因线路不匹配导致的加载失败。建议在客户端中固定常用地区节点，避免频繁跳转。</p><h3>游戏与实时通讯</h3><p>对局、语音与远程桌面更依赖稳定延迟。旗舰版提供 IPLC 专线游戏加速优化，适合把游戏与会议流量从普通国际出口中分离。连接后先观察客户端延迟与丢包，再进入对局或会议。</p><h3>差旅、办公与多设备协同</h3><p>公共网络下可用客户端建立加密通道，保护邮箱、网盘与内部系统访问。基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，便于手机、电脑与备用设备同时在线。团队版另支持企业定制路由与专属客户经理，方便把办公网段与个人流量分开。</p><h2 id=\"plans\">套餐与订阅说明</h2><p>以下为当前固定套餐。流量为每月额度，年付价格用于降低长期使用成本。设备数指可同时在线的客户端数量，超出后需下线一台再登录。</p><div class=\"plan\" id=\"plan-basic\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"note\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\" id=\"plan-flagship\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"note\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\" id=\"plan-team\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"note\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div><h2 id=\"clients\">客户端选择与官方下载</h2><p>NovaCloud 不绑定单一封闭软件，而是提供可导入订阅的通用客户端路径。请先确认系统版本，再点击对应官方下载。iOS 应用需从系统商店获取后仅导入订阅；桌面与安卓可使用本页标明的客户端类型。</p><div class=\"panel\"><h3>Windows</h3><p>适合长期挂机与分流规则较复杂的用户。推荐 Clash 系或 v2rayN，导入订阅后可按地区、延迟排序节点，并为游戏进程单独走代理。</p><p class=\"clients\"><a href=\"#download-windows\">Windows 官方下载</a></p><h3>macOS</h3><p>桌面端可使用 Clash 兼容客户端管理订阅。系统代理与增强模式按应用说明开启，避免浏览器与终端各走一套配置。</p><p class=\"clients\"><a href=\"#download-mac\">macOS 官方下载</a></p><h3>Android</h3><p>手机端优先选择可订阅更新的 Clash Meta 或兼容内核。开启后建议把常用 App 加入代理名单，系统更新与银行类应用可保持直连。</p><p class=\"clients\"><a href=\"#download-android\">Android 官方下载</a></p><h3>iOS</h3><p>通过商店安装 Shadowrocket、Stash 等支持订阅的工具，再粘贴 NovaCloud 订阅地址。请勿安装来源不明的描述文件。</p><p class=\"clients\"><a href=\"#download-ios\">iOS 配置说明</a></p><h3>Linux 与路由</h3><p>命令行环境可使用 sing-box 或兼容内核，把订阅转为本地配置。路由器侧适合全家设备共享，注意带宽与设备数不要超过套餐上限。</p><p class=\"clients\"><a href=\"#download-linux\">Linux / 路由说明</a></p></div><h2 id=\"guide\">操作说明（纵向步骤）</h2><p>按下列顺序完成即可连接。任一步失败时回到上一步核对套餐状态与订阅是否过期。</p><div class=\"steps\"><div class=\"step\"><h3>确认套餐与设备额度</h3><p>在套餐区选择基础版、旗舰版或团队版，确认每月流量与同时在线台数。需要 IPLC 或全节点解锁时优先旗舰版；多人共用选择团队版。</p></div><div class=\"step\"><h3>下载对应平台客户端</h3><p>打开「客户端选择」中的官方下载入口，安装完成后不要急于添加第三方订阅。仅使用 NovaCloud 提供的订阅链接，以免节点与流量统计错乱。</p></div><div class=\"step\"><h3>导入机场订阅</h3><p>在客户端选择「从 URL 更新」或「订阅管理」，粘贴订阅地址并更新节点列表。若列表为空，检查网络是否被临时阻断，或更换一次本地网络后再更新。</p></div><div class=\"step\"><h3>按场景挑选节点并连接</h3><p>浏览与视频可选当地普通节点；游戏与会议改用标注专线或低延迟节点。连接成功后访问目标站点验证，再把客户端设为开机启动或按需开启。</p></div></div><h3>日常维护</h3><p>流量将尽时减少大文件下载或升级套餐。节点超时先更新订阅，再切换同地区备用线路。多设备同时在线时，关掉长期挂起却不使用的会话，以免占用名额。</p><h2>节点、线路与访问建议</h2><p>普通线路节点池覆盖主流地区，适合网页、邮件与基础流媒体。旗舰与团队用户可使用更高带宽与 IPLC 专线，降低绕行带来的抖动。没有所谓「全局最快」的单一节点，应按目标网站所在区域选择，并在客户端内以延迟排序作为参考而非唯一标准。</p><p>若某一地区集体超时，优先更新订阅而不是反复开关飞行模式。企业定制路由由团队版客户经理协助划分网段，避免办公系统与流媒体抢占同一出口。</p><div class=\"ad\" id=\"ads\"><h2>合作与提示</h2><p>使用 NovaCloud 官方网站公布的客户端与订阅说明，可减少错误节点和失效配置。加速器只解决连通与线路质量，账号安全、双重验证与设备系统更新仍需用户自行完成。</p></div><h2 id=\"faq\">常见问题</h2><details><summary>NovaCloud 是机场还是 VPN 加速器？</summary><p>NovaCloud 同时提供机场订阅与多端加速客户端路径。订阅负责下发节点，客户端负责连接、分流与设备侧开关。本页按官方网站方式说明两者如何配合，而不是把概念对立起来。</p></details><details><summary>官方客户端下载入口在哪里？</summary><p>请使用本页「客户端选择」中的 Windows、macOS、Android、iOS 与 Linux 锚点链接。不要在搜索结果中的转载页下载安装包。iOS 仅导入订阅，应用本体仍通过系统商店获取。</p></details><details><summary>如何把订阅导入客户端？</summary><p>复制订阅地址，在客户端的订阅或配置管理中选择从 URL 添加并更新。导入成功后应看到按地区分组的节点。若提示 TLS 或解析失败，稍后重试或更换本地网络。</p></details><details><summary>三个套餐该怎么选？</summary><p>个人轻度使用选基础版（100GB、3 设备、基础流媒体）。需要原生解锁、游戏专线与优先工单选旗舰版。多人共用、高流量或需要定制路由选团队版。年付价格已在各套餐中标明。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>流量用尽后需等待周期重置或升级套餐，不建议依赖临时分享他人订阅。超过同时在线台数时，新设备无法稳定连接，请在已登录设备中退出闲置会话。</p></details><details><summary>游戏延迟仍然高该如何处理？</summary><p>确认已使用旗舰版 IPLC 相关节点，关闭占用带宽的下载，并在客户端为游戏进程设置代理。不同游戏区服对应不同落地，美西、日韩与港台需分别测试，不要长期锁在单一节点。</p></details><h2>友情链接</h2><p class=\"friends\"><a href=\"#plans\">套餐说明</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">导入步骤</a><a href=\"#faq\">帮助中心</a><a href=\"#intro\">关于 NovaCloud</a></p><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>NovaCloud 官方网站 · 机场订阅与客户端下载说明</p><p>网站地图</p><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#clients\">官方下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li></ul><p>链接仅使用页内锚点。正文、标题与描述均围绕 NovaCloud 的订阅、加速与客户端下载，不包含评分或虚构评价。</p></div></footer>",
+          "hash": "7efc793284c1a66ac24d6ccff867a1effb185c1a7a25e1170ed5ee3d2b032665",
+          "seo": {
+            "title": "NovaCloud 官网 - 机场订阅与 VPN 梯子网络加速客户端下载",
+            "keywords": "NovaCloud,NovaCloud VPN,NovaCloud机场,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash,官方网站",
+            "description": "NovaCloud 官方网站提供机场订阅服务与多平台 VPN 加速客户端下载，覆盖全球高速节点，支持流媒体解锁、游戏加速与稳定跨境访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hpzz0.cn",
+    "host": "p-0d00d5a448.hpzz0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "hpzz0.cn",
+      "url": "https://hpzz0.cn/",
+      "label": "MIMEMI",
+      "apex": "hpzz0.cn",
+      "kind": null,
+      "identity": "jichangdaquan999/page-48a2276212ce136f0baa5c2c"
+    },
+    {
+      "host": "selyo.cn",
+      "url": "https://selyo.cn/",
+      "label": "NovaCloud",
+      "apex": "selyo.cn",
+      "kind": null,
+      "identity": "br5cqyxe/page-e13568c6e0a466cd65c3e60e"
+    },
+    {
+      "host": "tgo-s.cn",
+      "url": "https://tgo-s.cn/",
+      "label": "NovaCloud",
+      "apex": "tgo-s.cn",
+      "kind": null,
+      "identity": "neejxxpus/page-079e98c2f32855fb59008d6c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "83af3bf066fe094b1333ce8462c5d3e236b89b35af6d85a98485a55b3b461d3c",
+    "sitemap.xml": "4e1c05998b6082e4becf01624a178d15465c9da05a35e2502132af76e05f0562",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bcb7b8a51c4029011a6a442c9daa073d9d0caea166a072e6b7241cd4051b34c8",
+    "robots.txt": "46186e5d882825a856c29a3c8a7b56a9872556aae7179884bddefc2f46044f83",
+    "56576a1100e0f69be3651cb10e030f59.txt": "4f1b468df6437e101547c9abc30119201380776eca3fe0b90ba8960ae2e3ee8a"
+  },
+  "revision": "8a3e1f029c9e76f9e4a7b473a22b672b066477731c8ed0f0655ed57c15ba29a6"
+}
